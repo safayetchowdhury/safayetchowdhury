@@ -34,14 +34,12 @@ Professional transitioning into Cybersecurity with a focus on **Incident Respons
 
 ---
 
-## 🎓 Education & Certifications
+## ## 🎓 Education & Certifications
+* **[CompTIA Security+ (SY0-701)](https://www.credly.com/badges/7d73866c-1a51-4bb1-bd1e-f4bd8713fae6)** – Issued Dec 2025
+* **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/87996428-e64b-44f9-aa25-8ebcdeab31b1/)** (Linux, MySQL, Python Labs)
+* **[Network Security – Cisco](https://www.coursera.org/account/accomplishments/verify/955KG2FNZJ41)**
+* **[Security Governance & Compliance – UC Irvine](https://www.coursera.org/account/accomplishments/verify/HMJZ9SFQBUNU)**
 * **M.S. in Cybersecurity** – University of North Carolina at Charlotte (Fall 2026)
-    * *Focus Areas: Network Security, GRC, Digital Forensics*
-* **B.S. in Textile Engineering** – Bangladesh University of Textiles
-* **CompTIA Security+ (SY0-701)** – Issued Dec 2025
-* **Google Cybersecurity Professional Certificate** (Linux, MySQL, Python Labs)
-* **Network Security** – Cisco
-* **Security Governance & Compliance** – University of California, Irvine
 
 ---
 
