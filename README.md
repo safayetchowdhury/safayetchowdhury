@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Safayet Chowdhury 🛡️
 
-<!--
-**safayetchowdhury/safayetchowdhury** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **Security+ Certified Technical Analyst | M.S. Cybersecurity at UNCC**
+Professional transitioning into Cybersecurity with a focus on **Incident Response**, **Security Operations**, and **Governance**. Proven experience in managing high-volume technical operations and protecting organizational assets through rigorous auditing and documentation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Practical Projects
+* **Incident Handling with Splunk:** Analyzed security logs to identify, contain, and remediate simulated threats.
+* **Linux System Hardening:** Implemented Least Privilege models via file permission hardening to secure critical system assets.
+* **SQL Traffic Investigation:** Utilized SQL filtering to investigate security incidents, analyze network traffic, and identify unencrypted credential leaks.
+* **Cybersecurity Incident Handler’s Journal:** A comprehensive documentation of simulated incident response lifecycles and technical findings.
+
+---
+
+## 🛠️ Technical Skills
+* **Security & Compliance:** Security+ Certified, HIPAA Compliance, IAM, SIEM (Splunk), Wireshark, Nmap, IDS/IPS, Vulnerability Assessment, Incident Response.
+* **Software & OS:** Windows 10/11, macOS, iOS, Android, Linux (Unix), Google Workspace, Microsoft Office Suite.
+* **Networking:** TCP/IP, DNS, DHCP, ISP/Broadband Troubleshooting, VPN, Secure Remote Assistance.
+* **Systems/Coding:** Python, Java (Intermediate), SQL.
+* **Languages:** Bengali (Native), English (Professional), Hindi & Urdu (Limited).
+
+---
+
+## 💼 Professional Experience
+**Technical Support Analyst** | *Tide, Charlotte, NC* (Jan 2024 – Present)
+* Identify network anomalies and facilitate incident response for high-volume business locations.
+
+**Visual Merchandiser (Asset Protection)** | *Nordstrom, Charlotte, NC* (Nov 2023 – Aug 2024)
+* Performed compliance auditing and risk mitigation to maintain operational integrity within corporate security protocols.
+
+**Account Manager (Hugo Boss)** | *Square Apparels Ltd., Dhaka* (Oct 2022 – July 2023)
+* Managed end-to-end supply chain logistics using SAP ERP, enforcing quality standards and international compliance.
+
+---
+
+## 🎓 Education & Certifications
+* **M.S. in Cybersecurity** – University of North Carolina at Charlotte (Fall 2026)
+    * *Focus Areas: Network Security, GRC, Digital Forensics*
+* **B.S. in Textile Engineering** – Bangladesh University of Textiles
+* **CompTIA Security+ (SY0-701)** – Issued Dec 2025
+* **Google Cybersecurity Professional Certificate** (Linux, MySQL, Python Labs)
+* **Network Security** – Cisco
+* **Security Governance & Compliance** – University of California, Irvine
+
+---
+
+## 📫 Let's Connect
+* **LinkedIn:** [linkedin.com/in/chowdhurysafayet](https://www.linkedin.com/in/chowdhurysafayet)
+* **Email:** safayetchowdhury25@gmail.com
+* **Location:** Charlotte, NC
