@@ -6,10 +6,12 @@ Professional transitioning into Cybersecurity with a focus on **Incident Respons
 ---
 
 ## 🔬 Practical Projects
-* **Incident Handling with Splunk:** Analyzed security logs to identify, contain, and remediate simulated threats.
-* **Linux System Hardening:** Implemented Least Privilege models via file permission hardening to secure critical system assets.
-* **SQL Traffic Investigation:** Utilized SQL filtering to investigate security incidents, analyze network traffic, and identify unencrypted credential leaks.
-* **Cybersecurity Incident Handler’s Journal:** A comprehensive documentation of simulated incident response lifecycles and technical findings.
+* **[Incident Response with Splunk](https://github.com/safayetchowdhury/Incident-Response-with-Splunk):** Analyzed security logs to identify, contain, and remediate simulated threats.
+* **[Penetration Testing & Forensic Audit](https://github.com/safayetchowdhury/Penetration-Testing-Forensic-Audit-Using-Kali-Ubuntu-Metasploit):** Built a controlled virtual environment using Kali Linux to simulate the full lifecycle of a security incident, from initial network scanning to forensic log analysis.
+* **[Wireshark-and-Nmap-Packet-Analysis-and-Network-Reconnaissance](https://github.com/safayetchowdhury/Wireshark-and-Nmap-Packet-Analysis-and-Network-Reconnaissance):** Utilized Wireshark and Nmap within a virtual environment to monitor network traffic, identify automated scans, and capture unencrypted, plain-text credentials during a simulated security incident.
+* **[SQL-Based Security Incident Investigation](https://github.com/safayetchowdhury/SQL-based-Security-Incident-Investigation):** Utilized SQL filtering to investigate security incidents, analyze network traffic, and identify unencrypted credential leaks.
+* **[Linux System Hardening](https://www.linkedin.com/in/chowdhurysafayet/overlay/Project/169833476/treasury?profileId=ACoAAC5wpjABUcO4Av7ACNfCmop02uQ2z1vQZ50):** Implemented Least Privilege models via file permission hardening to secure critical system assets.
+* **[Cybersecurity Incident Handler’s Journal](https://www.linkedin.com/in/chowdhurysafayet/overlay/Project/198476149/treasury?profileId=ACoAAC5wpjABUcO4Av7ACNfCmop02uQ2z1vQZ50):** A comprehensive documentation of simulated incident response lifecycles and technical findings.
 
 ---
 
