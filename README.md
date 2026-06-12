@@ -1,6 +1,6 @@
 # Hi, I'm Safayet Chowdhury 🛡️
 
-### **Security+ Certified Technical Analyst | M.S. Cybersecurity at UNCC**
+### **Cybersecurity Specialist | SOC, Incident Response, Vulnerability Triage & Risk Analysis | CompTIA Security+ | Technical Support Analyst | M.S. @ UNC Charlotte**
 
 **CompTIA Security+** certified Technical Analyst and M.S. Cybersecurity student at UNC Charlotte with **hands-on
 experience in security operations, risk analysis, and incident response**. Combines a background in technical
