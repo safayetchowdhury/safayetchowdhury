@@ -35,24 +35,25 @@
 **Assosiate** | *Nordstrom, Charlotte, NC* (Nov 2023 – Aug 2024)
 * Executed rigorous compliance audits, directly reducing inventory shrinkage by 12% year-over-year. Identified critical operational risks and implemented targeted mitigation strategies, achieving 100% security protocol adherence across audited departments.
 
-**Account Manager** | *Square Apparels Ltd., Dhaka* (Oct 2022 – July 2023)
+**Account Manager** | *Square Apparels Ltd., Dhaka, Bangladesh* (Oct 2022 – July 2023)
 * Directed supply chain logistics via SAP ERP, managing 45+ high-volume RMG bulk shipments quarterly. Optimized Third-Party Risk Management (TPRM) to reduce vendor delays by 20% while maintaining 100% SEDEX and brand compliance.
 
-**Instructor** | * Pathshaala* (Feb 2016 – Sep 2022)
+**Instructor** | *Pathshaala, Chattogram, Bangladesh* (Feb 2016 – Sep 2022)
 * Designed technical curriculum and procedure documentation to train 50+ individuals, accelerating onboarding time by 30%. Translated complex concepts into accessible content, achieving a 95% positive feedback rate for instructional clarity.
 
 ---
 
 ## 🎓 Education & Certifications
-* **[Google & CompTIA Dual Credential](https://www.credly.com/badges/3e474716-622f-40ae-a97c-6bbc5fb818d7))** – Issued July 2026
+* **[Google & CompTIA Dual Credential](https://www.credly.com/badges/3e474716-622f-40ae-a97c-6bbc5fb818d7)** – Issued July 2026
 * **[CompTIA Security+ (SY0-701)](https://www.credly.com/badges/7d73866c-1a51-4bb1-bd1e-f4bd8713fae6)** – Issued Dec 2025
 * **[Google Cybersecurity Professional Certificate](https://www.credly.com/badges/87996428-e64b-44f9-aa25-8ebcdeab31b1/)** (Linux, MySQL, Python Labs)
 * **[Network Security – Cisco](https://www.coursera.org/account/accomplishments/verify/955KG2FNZJ41)**
 * **[Security Governance & Compliance – UC Irvine](https://www.coursera.org/account/accomplishments/verify/HMJZ9SFQBUNU)**
+* **B.S. in Textile Sciences and Engineering | Bangladesh University of Textiles |**  2016 - 2021
 
 ---
 
 ## 📫 Let's Connect
-* **LinkedIn:** [linkedin.com/in/chowdhurysafayet](https://www.linkedin.com/in/chowdhurysafayet)
+* **LinkedIn:** [linkedin.com/in/safayetc](https://www.linkedin.com/in/safayetc)
 * **Email:** safayetchowdhury25@gmail.com
 * **Location:** Charlotte, NC
