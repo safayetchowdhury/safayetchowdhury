@@ -56,4 +56,4 @@
 ## 📫 Let's Connect
 * **LinkedIn:** [linkedin.com/in/safayetc](https://www.linkedin.com/in/safayetc)
 * **Email:** safayetchowdhury25@gmail.com
-* **Location:** Charlotte, NC
+* **Location:** Charlotte, NC (*Open to Relocation*)
