@@ -1,8 +1,8 @@
 # Hi, I'm Safayet Chowdhury 🛡️
 
-### **Cybersecurity Specialist | CompTIA Security+ | SOC Operations, Incident Response & Vulnerability Management | Support Analyst | Permanent Resident | Open To Relocation**
+### **Cybersecurity Specialist | CompTIA Security+ | SOC Operations, Incident Response & Vulnerability Management | Permanent Resident | Open To Relocation**
 
-**CompTIA Security+** certified professional with hands-on experience in **security operations, threat triage, and incident response**. My background spans technical support, compliance auditing, and third-party risk management (TPRM), giving me a practical, cross-functional foundation in SIEM monitoring, vulnerability assessment, and defensive security architecture. Currently pursuing opportunities in **SOC Analysis, Incident Response, Vulnerability Management, or Governance, Risk & Compliance (GRC).**
+**CompTIA Security+** certified Support Analyst with hands on experience in **security operations, threat triage, and incident response**. Background spans customer facing operations support, compliance auditing, and third party risk management (TPRM), providing a practical, cross functional foundation in SIEM monitoring, vulnerability assessment, and defensive security architecture including Snort IDS, SOAR automation, and cloud identity platforms like Azure, Sentinel, and Entra ID. Currently pursuing opportunities in **SOC Analysis, Incident Response, Vulnerability Management, or Governance, Risk & Compliance (GRC).**
 
 ---
 
@@ -29,7 +29,7 @@
 ---
 
 ## 💼 Professional Experience
-**Support Analyst** | *Tide, Charlotte, NC* (Jan 2024 – Present)
+**Support Analyst** | *Tide (Procter & Gamble) , Charlotte, NC* (Jan 2024 – Present)
 * Serve as front-line point of contact across customer-facing operations, managing day-to-day issue escalation and coordinating with plant operations and peer teams to drive rapid resolution. Own troubleshooting end-to-end at the location level, identifying root causes and following through until resolved, boosting operational profitability 15 percent by eliminating recurring order-loss incidents. Maintain 100 percent compliance with operational security protocols across all customer interactions.
 
 **Assosiate** | *Nordstrom Rack, Charlotte, NC* (Nov 2023 – Aug 2024)
@@ -50,6 +50,8 @@
 * **[Network Security – Cisco](https://www.coursera.org/account/accomplishments/verify/955KG2FNZJ41)**
 * **[Security Governance & Compliance – UC Irvine](https://www.coursera.org/account/accomplishments/verify/HMJZ9SFQBUNU)**
 * **B.S. in Textile Sciences and Engineering | Bangladesh University of Textiles |**  2016 - 2021
+
+  *Relevant Coursework: ISO Quality Standards, Process Control & Auditing, Statistical Analysis, Industrial/OT Systems*
 
 ---
 
