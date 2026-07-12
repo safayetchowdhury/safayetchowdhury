@@ -30,16 +30,16 @@
 
 ## 💼 Professional Experience
 **Support Analyst** | *Tide, Charlotte, NC* (Jan 2024 – Present)
-* Eliminated lost orders through proactive on-site troubleshooting, driving a 15% increase in profitability. Spearheaded diagnostic triage for complex enterprise systems, reducing MTTR by 35% and ensuring 100% compliance during secure remote assistance.
+* Serve as front-line point of contact across customer-facing operations, managing day-to-day issue escalation and coordinating with plant operations and peer teams to drive rapid resolution. Own troubleshooting end-to-end at the location level, identifying root causes and following through until resolved, boosting operational profitability 15 percent by eliminating recurring order-loss incidents. Maintain 100 percent compliance with operational security protocols across all customer interactions.
 
-**Assosiate** | *Nordstrom, Charlotte, NC* (Nov 2023 – Aug 2024)
-* Executed rigorous compliance audits, directly reducing inventory shrinkage by 12% year-over-year. Identified critical operational risks and implemented targeted mitigation strategies, achieving 100% security protocol adherence across audited departments.
+**Assosiate** | *Nordstrom Rack, Charlotte, NC* (Nov 2023 – Aug 2024)
+* Partnered with the Asset Protection and Loss Prevention team to conduct routine compliance audits and physical security risk assessments across the sales floor and stockroom, identifying control gaps before they became losses. Investigated shrinkage patterns and suspicious transaction activity, correlating point-of-sale data and inventory records to flag anomalies for further review, cutting inventory shrinkage 12 percent year over year. Documented findings and recommended mitigation plans to store leadership, achieving 100 percent adherence to security protocol standards during audit cycles. Balanced day-to-day customer service responsibilities with ongoing vigilance for policy violations and internal/external theft indicators, applying a risk-based approach to prioritize high-exposure areas.
 
 **Account Manager** | *Square Apparels Ltd., Dhaka, Bangladesh* (Oct 2022 – July 2023)
-* Directed supply chain logistics via SAP ERP, managing 45+ high-volume RMG bulk shipments quarterly. Optimized Third-Party Risk Management (TPRM) to reduce vendor delays by 20% while maintaining 100% SEDEX and brand compliance.
+* Managed end-to-end vendor relationships for 45+ high-volume RMG bulk shipments quarterly, using SAP ERP to track order accuracy, shipment data integrity, and compliance documentation across a multi-tier global supply chain. Conducted vendor risk assessments against SEDEX and brand compliance standards, auditing supplier practices and flagging non-conformances before they escalated into delivery or reputational risk. Optimized third-party risk management (TPRM) processes by standardizing vendor onboarding and audit checkpoints, cutting vendor delays 20 percent while maintaining 100 percent SEDEX and brand compliance. Served as the primary escalation point between internal teams and external vendors, resolving discrepancies in shipment records and compliance documentation to protect data accuracy across the order lifecycle.
 
 **Instructor** | *Pathshaala, Chattogram, Bangladesh* (Feb 2016 – Sep 2022)
-* Designed technical curriculum and procedure documentation to train 50+ individuals, accelerating onboarding time by 30%. Translated complex concepts into accessible content, achieving a 95% positive feedback rate for instructional clarity.
+* Designed and delivered technical curricula and structured documentation for 50+ trainees, breaking down complex technical concepts into clear, repeatable training material — accelerating onboarding time by 30 percent. Built standardized process guides and reference documentation to ensure consistency across cohorts, reducing knowledge gaps and dependency on ad hoc explanation. Assessed trainee comprehension through hands-on exercises and iterative feedback, identifying common failure points and adjusting instructional approach accordingly, achieving a 95 percent satisfaction rate. Mentored individuals with varying technical backgrounds, reinforcing foundational concepts before advancing to applied skills a structured, patient approach to technical knowledge transfer.
 
 ---
 
