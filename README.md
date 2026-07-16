@@ -1,6 +1,6 @@
 # Hi, I'm Safayet Chowdhury 🛡️
 
-### **Cybersecurity Specialist | CompTIA & Google Dual Security Credentials | SOC Operations, Incident Response & Vulnerability Management | DoD 8140 Baseline Compliant | Permanent Resident | Open To Relocation**
+### **SOC Analyst | Security+ & Google Cybersecurity | Incident Response • Threat Detection • Vulnerability Triage | Splunk • Sentinel • Azure • Python • Linux • IDS/IPS | DoD 8140 Baseline Compliant | Permanent Resident | Open to Relocation**
 
 **CompTIA Security+** certified Support Analyst with hands on experience in **security operations, threat triage, and incident response**. Background spans customer facing operations support, compliance auditing, and third party risk management (TPRM), providing a practical, cross functional foundation in SIEM monitoring, vulnerability assessment, and defensive security architecture including Snort IDS, SOAR automation, and cloud identity platforms like Azure, Sentinel, and Entra ID. Currently pursuing opportunities in **SOC Analysis, Incident Response, Vulnerability Management, or Governance, Risk & Compliance (GRC).**
 
